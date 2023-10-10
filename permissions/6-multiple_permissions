@@ -1,0 +1,2 @@
+#!/git/bash
+chmod u+x g+x u+r ./hello
