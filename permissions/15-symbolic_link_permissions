@@ -1,2 +1,2 @@
-#!/git/bash
+#!/bin/bash
 ln -m vincent:staff -s ./_hello _hello
